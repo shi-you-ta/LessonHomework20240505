@@ -1,0 +1,14 @@
+C:\Users\shota\source\repos\VisualStudio用\VB.net\Homework20240505\Regex\RegexHomework20240505\RegexHomework20240505\bin\Debug\net8.0\RegexHomework20240505.exe
+C:\Users\shota\source\repos\VisualStudio用\VB.net\Homework20240505\Regex\RegexHomework20240505\RegexHomework20240505\bin\Debug\net8.0\RegexHomework20240505.deps.json
+C:\Users\shota\source\repos\VisualStudio用\VB.net\Homework20240505\Regex\RegexHomework20240505\RegexHomework20240505\bin\Debug\net8.0\RegexHomework20240505.runtimeconfig.json
+C:\Users\shota\source\repos\VisualStudio用\VB.net\Homework20240505\Regex\RegexHomework20240505\RegexHomework20240505\bin\Debug\net8.0\RegexHomework20240505.dll
+C:\Users\shota\source\repos\VisualStudio用\VB.net\Homework20240505\Regex\RegexHomework20240505\RegexHomework20240505\bin\Debug\net8.0\RegexHomework20240505.pdb
+C:\Users\shota\source\repos\VisualStudio用\VB.net\Homework20240505\Regex\RegexHomework20240505\RegexHomework20240505\obj\Debug\net8.0\RegexHomework20240505.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shota\source\repos\VisualStudio用\VB.net\Homework20240505\Regex\RegexHomework20240505\RegexHomework20240505\obj\Debug\net8.0\RegexHomework20240505.AssemblyInfoInputs.cache
+C:\Users\shota\source\repos\VisualStudio用\VB.net\Homework20240505\Regex\RegexHomework20240505\RegexHomework20240505\obj\Debug\net8.0\RegexHomework20240505.AssemblyInfo.vb
+C:\Users\shota\source\repos\VisualStudio用\VB.net\Homework20240505\Regex\RegexHomework20240505\RegexHomework20240505\obj\Debug\net8.0\RegexHomework20240505.vbproj.CoreCompileInputs.cache
+C:\Users\shota\source\repos\VisualStudio用\VB.net\Homework20240505\Regex\RegexHomework20240505\RegexHomework20240505\obj\Debug\net8.0\RegexHomework20240505.dll
+C:\Users\shota\source\repos\VisualStudio用\VB.net\Homework20240505\Regex\RegexHomework20240505\RegexHomework20240505\obj\Debug\net8.0\refint\RegexHomework20240505.dll
+C:\Users\shota\source\repos\VisualStudio用\VB.net\Homework20240505\Regex\RegexHomework20240505\RegexHomework20240505\obj\Debug\net8.0\RegexHomework20240505.pdb
+C:\Users\shota\source\repos\VisualStudio用\VB.net\Homework20240505\Regex\RegexHomework20240505\RegexHomework20240505\obj\Debug\net8.0\RegexHomework20240505.genruntimeconfig.cache
+C:\Users\shota\source\repos\VisualStudio用\VB.net\Homework20240505\Regex\RegexHomework20240505\RegexHomework20240505\obj\Debug\net8.0\ref\RegexHomework20240505.dll
